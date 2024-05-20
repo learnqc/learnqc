@@ -1,9 +1,9 @@
 - 👋 Hi, this is @learnqc
 - 👀 Interested in quantum computing
-- 🌱 Currently writing a book: https://www.manning.com/books/building-quantum-software
+- 🌱 Currently writing a book: [https://www.manning.com/books/building-quantum-software](https://mng.bz/1GJn)
 - ⚡ More information: https://learnqc.com
 
-[<img src="https://github.com/learnqc/code/blob/main/assets/images/Gonciulea-MEAP-HI.png">](https://www.manning.com/books/building-quantum-software)
+[<img src="https://github.com/learnqc/code/blob/main/assets/images/Gonciulea-MEAP-HI.png">](https://mng.bz/1GJn)
 
 <!---
 learnqc/learnqc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
