@@ -2,6 +2,7 @@
 - 👀 Interested in quantum computing
 - 🌱 Currently writing a book: [https://www.manning.com/books/building-quantum-software](https://mng.bz/1GJn)
 - ⚡ More information: https://learnqc.com
+- 💲 Current discount codes: 45% off with SPG45
 
 [<img src="https://github.com/learnqc/code/blob/main/assets/images/Gonciulea-MEAP-HI.png">](https://mng.bz/1GJn)
 
